@@ -1,0 +1,3 @@
+[submodule "guoquanle-blog/themes/JuiceBar"]
+	path = guoquanle-blog/themes/JuiceBar
+	url = https://github.com/hotjuicew/hugo-JuiceBar.git
