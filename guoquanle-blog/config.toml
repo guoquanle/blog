@@ -2,7 +2,7 @@ baseURL = 'https://guoquanle.github.io/'
 languageCode = 'en'
 # languageCode = 'zh-CN'
 theme = "JuiceBar"
-title = "JuiceBar"
+title = "guoquanle's blog"
 
 [params]
 author = "hotjuicew"
@@ -10,9 +10,9 @@ description = "My site description"
 authorImage = "/images/profile.jpg"
 paginate = 5
 
-Title = "JuiceBar"
-content = "I'm JuiceBar, nice to meet you(ˊ˘ˋ*)♡"
-imageUrl = "/images/avatar.jpg"
+Title = "天地一沙鸥"
+content = "I'm guoquanle, nice to meet you(ˊ˘ˋ*)♡"
+imageUrl = "/images/astronaut.jpeg"
 # To add a new social icon (More social icons can be found in JuiceBar\layouts\partials\svg.html.)
 [[params.social]]
 name = "Github"
@@ -25,7 +25,7 @@ name = "twitter"
 url = "https://twitter.com/hotjuicee"
 [[params.social]]
 name = "email"
-url = "mailto:imjiaying@outlook.com"
+url = "guoquanle@outlook.com"
 
 
 [taxonomies]
